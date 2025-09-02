@@ -1,1 +1,26 @@
+Grundlæggende begreber: 
+* Hvad er et netværk? LAN vs. WAN
+
+
+* OSI-modellen (7 lag) & TCP/IP-modellen
+* IP-adresser (IPv4/IPv6), subnetmasker, gateways
+* MAC-adresser, ARP, DNS
+
+
+Basale protokoller: 
+* ICMP (ping, traceroute)
+* DHCP, DNS
+* HTTP/HTTPS
+
+
+Netværksudstyr: 
+* Switch vs. Router vs. Firewall
+* Access Point (WiFi)
+
+
+Praktiske værktøjer:
+* ping, traceroute, ipconfig/ifconfig, netstat, route
+* Wireshark basics (se ICMP, ARP, HTTP)
+
+
 
